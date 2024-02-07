@@ -1,0 +1,3 @@
+What did Java code call a C code?
+...
+You have no class.
